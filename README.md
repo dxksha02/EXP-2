@@ -47,17 +47,35 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Tabulation for Open Circuit Test:
+
+<img width="474" height="205" alt="Screenshot 2026-10-14 221157" src="https://github.com/user-attachments/assets/678b856d-048e-47db-8ffb-4790753e8733" />
 
 Tabulation for Load Test:
 
-Model graph:
+<img width="476" height="182" alt="Screenshot 2026-10-14 221304" src="https://github.com/user-attachments/assets/7c2070ad-0d19-43f2-982f-29ed6484eba5" />
+
+Model graph:( Load Characteristics of DC Shunt Generator) 
+
+<img width="711" height="220" alt="Screenshot 2026-10-14 205819" src="https://github.com/user-attachments/assets/9cad65c7-2422-4709-a1e9-e41e75fdd8ea" />
+
 Calculation: 
+<img width="2586" height="1979" alt="WhatsApp Image 2026-10-14 at 9 18 50 PM" src="https://github.com/user-attachments/assets/d9ecac7f-3616-4796-a38f-b523a1ac73db" />
 
-Open circuit characteristics
+Model graph:( Magnetisation Characteristics of DC shunt Generator) 
 
-  
+<img width="453" height="193" alt="Screenshot 2026-10-14 210119" src="https://github.com/user-attachments/assets/80b2bb4f-3eff-426b-af82-897f5d82d7e3" />
+
+Calculation:
+<img width="1372" height="1471" alt="WhatsApp Image 2026-10-14 at 9 27 13 PM" src="https://github.com/user-attachments/assets/60a0c3cb-ca6f-4a1d-9d64-dd7013e72d16" />
+
+Open circuit characteristics:
+
+<img width="198" height="191" alt="Screenshot 2026-10-14 214106" src="https://github.com/user-attachments/assets/6dedd0cf-03c2-45d8-a087-bdd5cb3171d5" />
+
 Load Characteristics:
- 
+
+<img width="161" height="135" alt="Screenshot 2026-10-14 214124" src="https://github.com/user-attachments/assets/b6d2ceca-91d8-469a-aa8a-b6bee69ae432" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
